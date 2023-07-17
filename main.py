@@ -5,6 +5,8 @@ Python with Turtle lets you make graphics easily in Python.
 
 Check out the official docs here: https://docs.python.org/3/library/turtle.html
 """
+Getting started with variable:
+Drawing a square:
 
 import turtle
 
