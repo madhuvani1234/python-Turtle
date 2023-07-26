@@ -72,6 +72,14 @@ print(names[1:3])  #prints index 1,2
 print(names[::2])
 print(names[::-2])
 
+digits = [1, 2, 3, 4, 5]
+print(digits[-1])
+print(len(digits))
+print(digits[-len(digits)])
+
+for i in range(len(digits)):
+  print(digits[:i])
+
 
 #input from console
 l1=eval(input("enter list:"))
